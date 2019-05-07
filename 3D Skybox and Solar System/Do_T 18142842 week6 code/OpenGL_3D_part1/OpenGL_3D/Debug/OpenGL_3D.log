@@ -1,0 +1,27 @@
+﻿Build started 5/3/2019 9:00:57 PM.
+     1>Project "X:\NEW GRAPHICS\OpenGL_3D\OpenGL_3D\OpenGL_3D.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OpenGL_3D.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         OpenGL_3D.vcxproj -> X:\NEW GRAPHICS\OpenGL_3D\Debug\OpenGL_3D.exe
+       MetaGen:
+       Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file "Debug\OpenGL_3D.unsuccessfulbuild".
+         Touching "Debug\OpenGL_3D.lastbuildstate".
+     1>Done Building Project "X:\NEW GRAPHICS\OpenGL_3D\OpenGL_3D\OpenGL_3D.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.32

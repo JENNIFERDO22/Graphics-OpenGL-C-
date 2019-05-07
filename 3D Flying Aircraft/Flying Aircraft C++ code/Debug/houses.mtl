@@ -1,0 +1,151 @@
+#
+# Wavefront material file: C:\Users\charlesm\Desktop\houses\houses.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 02/09/2015 22:46:52
+#
+# Bounding box of geometry = (-11732.6,-6.391,-11740.1) to (-14.1029,526.226,-11.3226).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl Default_Material
+	Ns 3
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.3 0.3 0.3
+
+newmtl Material1
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.882353 0.882353 0.784314
+	Ks 0 0 0
+	Ka 0.3 0.3 0.266667
+
+newmtl White
+	Ns 3
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.3 0.3 0.3
+
+newmtl _Beige_2
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.666667 0.596078 0.454902
+	Ks 0 0 0
+	Ka 0.3 0.268235 0.204706
+
+newmtl _Brick_Antique_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.576471 0.411765 0.278431
+	Ks 0 0 0
+	Ka 0.3 0.214286 0.144898
+	map_Kd brick_antique.ppm
+
+newmtl _Burnt_Umber_1
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.027451 0.0117647 0.00784314
+	Ks 0 0 0
+	Ka 0.3 0.128571 0.0857143
+
+newmtl _Charcoal_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.137255 0.137255 0.137255
+	Ks 0 0 0
+	Ka 0.3 0.3 0.3
+
+newmtl _Cladding_Stucco_White_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.784314 0.784314 0.784314
+	Ks 0 0 0
+	Ka 0.3 0.3 0.3
+	map_Kd cladding_stucco_white.ppm
+
+newmtl _DimGray_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.411765 0.411765 0.411765
+	Ks 0 0 0
+	Ka 0.3 0.3 0.3
+
+newmtl _Groundcover_Brick_Crushed_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.607843 0.345098 0.305882
+	Ks 0 0 0
+	Ka 0.3 0.170323 0.150968
+	map_Kd groundcover_brick_crushed.ppm
+
+newmtl _LightGray_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.662745 0.662745 0.662745
+	Ks 0 0 0
+	Ka 0.3 0.3 0.3
+
+newmtl _Roofing_Shingles_GAF_Estates_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.317647 0.301961 0.290196
+	Ks 0 0 0
+	Ka 0.3 0.285185 0.274074
+	map_Kd roofing_shingles_gaf_estates.ppm
+
+newmtl _Stone_Granite_Midnite_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.384314 0.372549 0.376471
+	Ks 0 0 0
+	Ka 0.3 0.290816 0.293878
+	map_Kd stone_granite_midnite.ppm
+
+newmtl _Vegetation_HoneyLocust_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.337255 0.568627 0.0980392
+	Ks 0 0 0
+	Ka 0.177931 0.3 0.0517241
+	map_Kd vegetation_honeylocust.ppm
+
+newmtl eik3_ic
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.721569 0.768627 0.694118
+	Ks 0 0 0
+	Ka 0.281633 0.3 0.270918
+	map_Kd eik3_ic.ppm
+
+newmtl jean_blue
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.141176 0.184314 0.258824
+	Ks 0 0 0
+	Ka 0.163636 0.213636 0.3
+

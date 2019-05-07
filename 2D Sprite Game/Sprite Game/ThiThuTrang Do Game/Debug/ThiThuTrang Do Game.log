@@ -1,0 +1,34 @@
+﻿Build started 5/1/2019 4:29:22 PM.
+     1>Project "X:\CS426 Graphics\ThiThuTrang Do Game\ThiThuTrang Do Game\ThiThuTrang Do Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ThiThuTrang Do Game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"X:\CS426 Graphics\freeglut_bin" /I"X:\CS426 Graphics\freeglut_bin" /I"X:\CS426 Graphics\ThiThuTrang Do Game\Debug" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ThiThuTrang Do Game.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "ThiThuTrang Do Game.cpp"
+         ThiThuTrang Do Game.cpp
+     1>x:\cs426 graphics\thithutrang do game\debug\sprite.h(96): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>x:\cs426 graphics\thithutrang do game\debug\sprite.h(96): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>x:\cs426 graphics\thithutrang do game\debug\sprite.h(112): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>x:\cs426 graphics\thithutrang do game\debug\sprite.h(113): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>x:\cs426 graphics\thithutrang do game\debug\sprite.h(179): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>x:\cs426 graphics\thithutrang do game\debug\sprite.h(180): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>x:\cs426 graphics\thithutrang do game\thithutrang do game\thithutrang do game.cpp(45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>x:\cs426 graphics\thithutrang do game\thithutrang do game\thithutrang do game.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>x:\cs426 graphics\thithutrang do game\thithutrang do game\thithutrang do game.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>x:\cs426 graphics\thithutrang do game\thithutrang do game\thithutrang do game.cpp(145): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>x:\cs426 graphics\thithutrang do game\thithutrang do game\thithutrang do game.cpp(146): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ThiThuTrang Do Game.exe.embed.manifest.res" "Debug\ThiThuTrang Do Game_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"X:\CS426 Graphics\ThiThuTrang Do Game\Debug\ThiThuTrang Do Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"X:\CS426 Graphics\freeglut_bin" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ThiThuTrang Do Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"X:\CS426 Graphics\ThiThuTrang Do Game\Debug\ThiThuTrang Do Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:\CS426 Graphics\ThiThuTrang Do Game\Debug\ThiThuTrang Do Game.lib" /MACHINE:X86 "Debug\ThiThuTrang Do Game.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\ThiThuTrang Do Game.obj"
+     1>LINK : fatal error LNK1168: cannot open X:\CS426 Graphics\ThiThuTrang Do Game\Debug\ThiThuTrang Do Game.exe for writing
+     1>Done Building Project "X:\CS426 Graphics\ThiThuTrang Do Game\ThiThuTrang Do Game\ThiThuTrang Do Game.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.75

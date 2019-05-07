@@ -1,0 +1,25 @@
+#
+# Wavefront material file: C:\Users\charlesm\Desktop\Models\Converted\sun.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 01/23/2015 21:50:28
+#
+# Bounding box of geometry = (-0.999999,-1.00082,-0.996859) to (0.999999,1.00201,0.996859).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl xof_default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+	map_Kd sun.ppm
+
